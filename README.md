@@ -3,13 +3,13 @@
 <h3 align="center">Talks about Cybersecurity.</h3>
 <img align= "right" alt= "coding" width = "400" src = "https://lordicon.com/icons/wired/flat/2077-hacking.gif"
 
-- 🔭 I’m currently working on **Instrusion Detection System**
+  🔭 I’m currently working on **Instrusion Detection System**
 
-- 🌱 I’m currently learning **Netwoking, Incident Response and forensics**
+  🌱 I’m currently learning **Netwoking, Incident Response and forensics**
 
-- 💬 Ask me about **Cryptography, C, C++, Python**
+  💬 Ask me about **Cryptography, C, C++, Python**
 
-- 📫 How to reach me **saranshracvik2209@gmail.com**
+  📫 How to reach me **saranshracvik2209@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
